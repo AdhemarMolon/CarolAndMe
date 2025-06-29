@@ -43,8 +43,8 @@ const Index = () => {
     '/imagens/ELAeEU1.jpeg',
     '/imagens/ELAeEU2.jpeg',
     '/imagens/ELAeEU3.jpeg',
-    'https://placekitten.com/404/300',
-    'https://placekitten.com/405/300'
+    '/imagens/ELAeEU4.jpg',
+    '/imagens/ELAeEU5.jpg',
   ];
 
   return (

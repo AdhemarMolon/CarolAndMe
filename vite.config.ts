@@ -7,6 +7,5 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
+  base: "/carolandme/", // Adicione esta linha com o nome do seu repositório
 })
-
-
